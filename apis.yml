@@ -1,7 +1,11 @@
 aid: harsco
-url: https://raw.githubusercontent.com/api-evangelist/harsco/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/harsco/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.harsco.com
+description: >-
+  Enviri is a trusted global leader in environmental solutions, developing and refining
+  creative methods of recycling and beneficial reuse for our customers.
