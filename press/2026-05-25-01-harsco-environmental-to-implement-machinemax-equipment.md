@@ -1,7 +1,9 @@
 ---
 title: Harsco Environmental to Implement MachineMax Equipment ...
 url: https://investors.enviri.com/news-releases/news-release-details/harsco-environmental-implement-machinemax-equipment-management/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harsco" press release artificial intelligence'
 position: 1
 source: serpapi-google

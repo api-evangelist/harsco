@@ -1,7 +1,9 @@
 ---
 title: Rail supplier news from Harsco, Wi-Tronix, Nokia, ENGIE ...
 url: https://www.ritdllc.com/industry-news/rail-supplier-news-from-harsco-wi-tronix-nokia-engie-sasser-family-hub-and-schneider-march-13?tmpl=component&print=1&format=print
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harsco" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Harsco Environmental's Post
 url: https://www.linkedin.com/posts/harscoenvironmental_employeeengagement-mostlovedworkplaces-activity-6857300520957206528-bbLF?trk=public_profile_like_view
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harsco" press release artificial intelligence'
 position: 5
 source: serpapi-google
